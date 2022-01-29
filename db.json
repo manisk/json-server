@@ -1,0 +1,12 @@
+{
+  "cars": [
+    {
+    "title": "Mahindra XUV700",
+    "description":
+      "The Mahindra XUV700 was launched in India on 14 August, 2021. The carmaker has announced prices for entry-level variants of second-generation of the SUV. The model will be offered in four variants including MX, AX3, AX5, and AX7.",
+    "price": "23.80 Lakh",
+    "src": "https://imgd-ct.aeplcdn.com/393x221/n/cw/ec/100429/xuv700-right-front-three-quarter-3.jpeg?isig=0&q=75",
+    "id": 1
+    }
+  ]
+}
