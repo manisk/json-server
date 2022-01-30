@@ -63,6 +63,38 @@
     "price": "1.20 Crore",
     "src": "https://imgd-ct.aeplcdn.com/468x263/n/cw/ec/22803/audi-q7-facelift-right-front-three-quarter4.jpeg?q=75",
     "id": 8
+    },
+        {
+      "title": "Maruti Suzuki Swift",
+    "description":
+            "Maruti Suzuki has launched the Swift facelift after the new generation was launched in India way back in the year 2018. The facelift gets a brand new engine and a handful of exterior and interior changes to give it a fresh look. It also gets costlier by Rs 15,000 to Rs 20,000 over the previous model with an inclusion of a",
+    "price": "8.76 Lakh",
+    "src": "https://imgd-ct.aeplcdn.com/642x361/n/cw/ec/54399/exterior-right-front-three-quarter-10.jpeg?q=75",
+    "id": 9
+    },
+    {
+      "title": "Tata Tigor EV",
+    "description":
+            "Find a list of all 4 electric versions of Tata Tigor EV. This table includes on-road price which covers all costs like RTO and Insurance.",
+    "price": "13.14 Lakh",
+    "src": "https://imgd-ct.aeplcdn.com/393x221/n/cw/ec/45849/tigor-ev-facelift-exterior-right-front-three-quarter-5.jpeg?isig=0&q=75",
+    "id": 10
+    },
+    {
+      "title": "Maruti Baleno",
+    "description":
+            "The price of Maruti Baleno starts at Rs. 6.14 Lakh and goes upto Rs. 9.66 Lakh. Maruti Baleno is offered in 9 variants - the base model of Baleno is Sigma and the top variant Maruti Baleno Alpha CVT which comes at a price tag of Rs. 9.66 Lakh.",
+    "price": "9.76 Lakh",
+    "src": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/6778/1615985070703/front-left-side-47.jpg?tr=w-456",
+    "id": 11
+    },
+    {
+      "title": "Maruti Suzuki Swift",
+    "description":
+            "Maruti Suzuki has launched the Swift facelift after the new generation was launched in India way back in the year 2018. The facelift gets a brand new engine and a handful of exterior and interior changes to give it a fresh look. It also gets costlier by Rs 15,000 to Rs 20,000 over the previous model with an inclusion of a",
+    "price": "8.76 Lakh",
+    "src": "https://imgd-ct.aeplcdn.com/642x361/n/cw/ec/54399/exterior-right-front-three-quarter-10.jpeg?q=75",
+    "id": 12
     }
 
   ]
